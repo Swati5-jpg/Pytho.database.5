@@ -1,0 +1,17 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore the SQLite database file
+students.db
+
+# Ignore IDE files (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Ignore system-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
