@@ -3,13 +3,10 @@ name: Run Tests
 on:
   push:
     branches:
-      - feature/*  # Run tests on all feature branches
+        # Run tests on all feature branches
       - dev        # Run tests when pushing to the 'dev' branch
-      - main       # Run tests when pushing to the 'main' branch
-  pull_request:
-    branches:
-      - dev        # Run tests when creating a pull request to 'dev'
-      - main       # Run tests when creating a pull request to 'main'
+            # Run tests when pushing to the 'main' branch
+         # Run tests when creating a pull request to 'main'
 
 jobs:
   test:
