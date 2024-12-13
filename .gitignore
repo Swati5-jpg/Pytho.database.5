@@ -13,5 +13,5 @@ students.db
 .idea/
 
 # Ignore system-specific files
-.DS_Store  # macOS
+
 Thumbs.db  # Windows
