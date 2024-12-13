@@ -138,5 +138,15 @@
             "Maths",
             "English"
         ]
+    },
+    {
+        "id": 205,
+        "name": "Maya Jindal",
+        "age": 21,
+        "grade": "B",
+        "subjects": [
+            "English",
+            "Maths"
+        ]
     }
 ]
