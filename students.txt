@@ -148,15 +148,5 @@
             "English",
             "Maths"
         ]
-    },
-    {
-        "id": 206,
-        "name": "Anvita Mishra",
-        "age": 22,
-        "grade": "A",
-        "subjects": [
-            "History",
-            "English"
-        ]
     }
 ]
