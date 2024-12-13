@@ -128,5 +128,15 @@
             "Science",
             "English"
         ]
+    },
+    {
+        "id": 204,
+        "name": "Manju Pareek",
+        "age": 23,
+        "grade": "B",
+        "subjects": [
+            "Maths",
+            "English"
+        ]
     }
 ]
