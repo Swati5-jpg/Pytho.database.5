@@ -118,5 +118,15 @@
             "Maths",
             "English"
         ]
+    },
+    {
+        "id": 203,
+        "name": "Anmay Prasad",
+        "age": 21,
+        "grade": "B",
+        "subjects": [
+            "Science",
+            "English"
+        ]
     }
 ]
