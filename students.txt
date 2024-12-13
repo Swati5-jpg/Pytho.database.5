@@ -108,5 +108,15 @@
             "Science",
             "History"
         ]
+    },
+    {
+        "id": 202,
+        "name": "Amit Sharma",
+        "age": 21,
+        "grade": "A",
+        "subjects": [
+            "Maths",
+            "English"
+        ]
     }
 ]
